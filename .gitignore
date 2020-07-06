@@ -26,6 +26,15 @@
 *.a
 *.lib
 
+# vscode
+.vscode/*
+
+# cmake
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+
+
 # Executables
 *.exe
 *.out
